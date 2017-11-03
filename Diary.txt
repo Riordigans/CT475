@@ -1,0 +1,18 @@
+//Diary containing work done day-by-day and planning sessions
+//E - just Emma
+//S - just Sean
+//E&S - Emma & Sean collaboratively 
+
+03/10 - E&S: Two hour planning session. Decided on logistic regression algorithm, researched definitions and read articles: 
+        https://en.wikipedia.org/wiki/Multinomial_logistic_regression
+        https://codesachin.wordpress.com/2015/08/16/logistic-regression-for-dummies/
+        
+        Decided to write in Java. Emma created Github repository to easily collaborate, and for assignment correctors to easily see
+        individual contributions.
+        
+        Discussed basic input/output, desired methods and classes for project. Sean suggested a very generic program that can take
+        in a variety of data: including strings. Not just numbers as per the owls15.csv file. He also suggested good visualisation of
+        the data, such as learning curves and ROC curves. 
+        
+        Together proposed three main classes should be working/computing class, GUI class and test class. Emma offered to spend some
+        time that evening creating skelton classes and start writing the outline of some of the basic methods.
